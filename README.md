@@ -1,4 +1,7 @@
-aboutus
-=======
+Engineered to achieve One Purpose
+=================================
 
-This is just a repository to show who we are..
+Developers
+----------
+* Young Park (Software Engineer)
+* Jieun Do (Designer)
