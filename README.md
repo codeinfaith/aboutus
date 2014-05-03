@@ -1,3 +1,5 @@
-Engineered to achieve One Purpose
-=================================
+Engineering God's Dream
+=======================
+
+Visit http://www.codeinfaith.com for more information
 
